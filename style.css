@@ -1,3 +1,47 @@
-body {
-  font-family: monospace;
+body{
+    	font-family: Arial, Microsoft JhengHei;
+   	font-size: 18px;
+	background-image: url(background.jpg);
+}
+
+ul{
+	margin-left:100px;
+}
+
+#name{
+	display:inline;
+}
+
+div{
+	display:inline;
+}
+
+h1{
+	margin-left:100px;
+}
+
+h2{
+	margin-left:100px;
+}
+
+p{
+	margin-left:100px;
+}
+
+#Chinese{
+	margin-left:100px;
+}
+
+#a{
+    	text-align: center;
+}
+
+img{
+    	position:absolute;
+    	left:430px;
+    	width:140px;
+}
+
+.Resume{
+	margin-left:100px;
 }
